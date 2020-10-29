@@ -1,0 +1,7 @@
+15:54:27 [INFO] : ------------------------------
+15:54:27 [INFO] : Program Start
+15:54:48 [ERROR] : TCP 연결실패
+15:54:48 [ERROR] : Connect 에러코드 : 10060
+15:54:48 [FATAL] : Socket Connect Fail!
+15:54:48 [INFO] : Program End
+15:54:48 [INFO] : ------------------------------

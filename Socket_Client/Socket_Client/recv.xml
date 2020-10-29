@@ -1,0 +1,1 @@
+?<?xml version="1.0" encoding="utf-8"?><ENDO xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><TYPE SEQUENCE_ID="yWtZrQpdGZ">RESPONSE</TYPE><COMMAND><SOURCE APPLICATION="TL" VENDOR="HBK" /><ACTION>BEGIN</ACTION></COMMAND><PARAMETERS /><RESULT>DONE</RESULT><CODE>OK</CODE><DESCRIPTION>검사 정보 정상 등록</DESCRIPTION></ENDO>
